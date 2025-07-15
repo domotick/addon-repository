@@ -34,7 +34,7 @@
     "HA_DISCOVERY": "bool",
     "HA_PREFIX": "str"
   },
-  "image": "ghcr.io/domotick/synology_ds2mqtt/{arch}",
+  "image": "ghcr.io/domotick/synology_ds2mqtt",
   "environment": {
   }
 }
