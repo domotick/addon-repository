@@ -35,7 +35,7 @@
     "HA_PREFIX": "str"
   },
   "legacy": true,
-  "image": "ghcr.io/domotick/synology_ds2mqtt:latest@sha256:17d26d138321792c9654347c81ed5b3211901d1e00769f997a0c1c1a75682399",
+  "image": "ghcr.io/domotick/synology_ds2mqtt",
   "environment": {
   }
 }
